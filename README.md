@@ -1,4 +1,4 @@
 # New Project
 This project was created by local system.
 
-Created by Rashi Vishwakarma.
+Created by Rashi Vishwakarma
